@@ -1,0 +1,373 @@
+2024-03-13 19:00:27,506 - INFO - 127.0.0.1 - - [13/Mar/2024 19:00:27] "GET / HTTP/1.1" 200 -
+2024-03-13 19:00:28,102 - INFO - 127.0.0.1 - - [13/Mar/2024 19:00:28] "GET / HTTP/1.1" 200 -
+2024-03-13 19:00:28,395 - INFO - 127.0.0.1 - - [13/Mar/2024 19:00:28] "GET / HTTP/1.1" 200 -
+2024-03-13 19:00:28,677 - INFO - 127.0.0.1 - - [13/Mar/2024 19:00:28] "GET / HTTP/1.1" 200 -
+2024-03-13 19:00:34,111 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:00:34 IST)" (scheduled at 2024-03-13 19:00:34.111263+05:30)
+2024-03-13 19:00:34,112 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:00:34 IST)" (scheduled at 2024-03-13 19:00:34.111263+05:30)
+2024-03-13 19:00:34,975 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:00:34 IST)" (scheduled at 2024-03-13 19:00:34.964064+05:30)
+2024-03-13 19:00:34,977 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:00:34 IST)" (scheduled at 2024-03-13 19:00:34.964064+05:30)
+2024-03-13 19:00:37,495 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:04 IST)" executed successfully
+2024-03-13 19:00:38,877 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:04 IST)" executed successfully
+2024-03-13 19:00:40,837 - INFO - Email sent successfully to aloyziuz1234@gmail.com.
+2024-03-13 19:00:40,995 - INFO - Email sent successfully to aloyziuz1234@gmail.com.
+2024-03-13 19:00:41,898 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:04 IST)" executed successfully
+2024-03-13 19:00:42,019 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:04 IST)" executed successfully
+2024-03-13 19:01:04,121 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:34 IST)" (scheduled at 2024-03-13 19:01:04.111263+05:30)
+2024-03-13 19:01:04,121 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:34 IST)" (scheduled at 2024-03-13 19:01:04.111263+05:30)
+2024-03-13 19:01:04,968 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:34 IST)" (scheduled at 2024-03-13 19:01:04.964064+05:30)
+2024-03-13 19:01:04,969 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:34 IST)" (scheduled at 2024-03-13 19:01:04.964064+05:30)
+2024-03-13 19:01:06,746 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:34 IST)" executed successfully
+2024-03-13 19:01:16,576 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:34 IST)" executed successfully
+2024-03-13 19:01:17,443 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:34 IST)" executed successfully
+2024-03-13 19:01:18,201 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:01:34 IST)" executed successfully
+2024-03-13 19:01:34,120 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:04 IST)" (scheduled at 2024-03-13 19:01:34.111263+05:30)
+2024-03-13 19:01:34,120 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:04 IST)" (scheduled at 2024-03-13 19:01:34.111263+05:30)
+2024-03-13 19:01:34,969 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:04 IST)" (scheduled at 2024-03-13 19:01:34.964064+05:30)
+2024-03-13 19:01:34,970 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:04 IST)" (scheduled at 2024-03-13 19:01:34.964064+05:30)
+2024-03-13 19:01:37,773 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:04 IST)" executed successfully
+2024-03-13 19:01:46,391 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:04 IST)" executed successfully
+2024-03-13 19:01:46,516 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:04 IST)" executed successfully
+2024-03-13 19:01:47,850 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:04 IST)" executed successfully
+2024-03-13 19:02:04,127 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:34 IST)" (scheduled at 2024-03-13 19:02:04.111263+05:30)
+2024-03-13 19:02:04,127 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:34 IST)" (scheduled at 2024-03-13 19:02:04.111263+05:30)
+2024-03-13 19:02:04,980 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:34 IST)" (scheduled at 2024-03-13 19:02:04.964064+05:30)
+2024-03-13 19:02:04,982 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:34 IST)" (scheduled at 2024-03-13 19:02:04.964064+05:30)
+2024-03-13 19:02:16,206 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:34 IST)" executed successfully
+2024-03-13 19:02:17,091 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:34 IST)" executed successfully
+2024-03-13 19:02:17,407 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:34 IST)" executed successfully
+2024-03-13 19:02:17,439 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:02:34 IST)" executed successfully
+2024-03-13 19:02:34,120 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:04 IST)" (scheduled at 2024-03-13 19:02:34.111263+05:30)
+2024-03-13 19:02:34,121 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:04 IST)" (scheduled at 2024-03-13 19:02:34.111263+05:30)
+2024-03-13 19:02:34,969 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:04 IST)" (scheduled at 2024-03-13 19:02:34.964064+05:30)
+2024-03-13 19:02:34,970 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:04 IST)" (scheduled at 2024-03-13 19:02:34.964064+05:30)
+2024-03-13 19:02:37,574 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:04 IST)" executed successfully
+2024-03-13 19:02:46,160 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:04 IST)" executed successfully
+2024-03-13 19:02:47,175 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:04 IST)" executed successfully
+2024-03-13 19:02:48,878 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:04 IST)" executed successfully
+2024-03-13 19:03:04,116 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:34 IST)" (scheduled at 2024-03-13 19:03:04.111263+05:30)
+2024-03-13 19:03:04,118 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:34 IST)" (scheduled at 2024-03-13 19:03:04.111263+05:30)
+2024-03-13 19:03:04,971 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:34 IST)" (scheduled at 2024-03-13 19:03:04.964064+05:30)
+2024-03-13 19:03:04,971 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:34 IST)" (scheduled at 2024-03-13 19:03:04.964064+05:30)
+2024-03-13 19:03:12,585 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:12] "[32mPOST /website/5/delete HTTP/1.1[0m" 302 -
+2024-03-13 19:03:12,592 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:12] "GET / HTTP/1.1" 200 -
+2024-03-13 19:03:14,314 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:14] "[32mPOST /website/3/delete HTTP/1.1[0m" 302 -
+2024-03-13 19:03:14,324 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:14] "GET / HTTP/1.1" 200 -
+2024-03-13 19:03:15,301 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:15] "GET /website/add HTTP/1.1" 200 -
+2024-03-13 19:03:16,225 - ERROR - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:34 IST)" raised an exception
+Traceback (most recent call last):
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\app.py", line 247, in check_website_status
+    db.session.commit()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\scoping.py", line 597, in commit
+    return self._proxied.commit()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1972, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1257, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1232, in _prepare_impl
+    self.session.flush()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4296, in flush
+    self._flush(objects)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4431, in _flush
+    with util.safe_reraise():
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4392, in _flush
+    flush_context.execute()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 85, in save_obj
+    _emit_update_statements(
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 948, in _emit_update_statements
+    raise orm_exc.StaleDataError(
+sqlalchemy.orm.exc.StaleDataError: UPDATE statement on table 'website' expected to update 1 row(s); 0 were matched.
+2024-03-13 19:03:16,464 - ERROR - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:34 IST)" raised an exception
+Traceback (most recent call last):
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\app.py", line 247, in check_website_status
+    db.session.commit()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\scoping.py", line 597, in commit
+    return self._proxied.commit()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1972, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1257, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1232, in _prepare_impl
+    self.session.flush()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4296, in flush
+    self._flush(objects)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4431, in _flush
+    with util.safe_reraise():
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4392, in _flush
+    flush_context.execute()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 85, in save_obj
+    _emit_update_statements(
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 948, in _emit_update_statements
+    raise orm_exc.StaleDataError(
+sqlalchemy.orm.exc.StaleDataError: UPDATE statement on table 'website' expected to update 1 row(s); 0 were matched.
+2024-03-13 19:03:16,932 - ERROR - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:34 IST)" raised an exception
+Traceback (most recent call last):
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\app.py", line 247, in check_website_status
+    db.session.commit()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\scoping.py", line 597, in commit
+    return self._proxied.commit()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1972, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1257, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1232, in _prepare_impl
+    self.session.flush()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4296, in flush
+    self._flush(objects)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4431, in _flush
+    with util.safe_reraise():
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4392, in _flush
+    flush_context.execute()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 85, in save_obj
+    _emit_update_statements(
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 948, in _emit_update_statements
+    raise orm_exc.StaleDataError(
+sqlalchemy.orm.exc.StaleDataError: UPDATE statement on table 'website' expected to update 1 row(s); 0 were matched.
+2024-03-13 19:03:17,812 - ERROR - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:03:34 IST)" raised an exception
+Traceback (most recent call last):
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\app.py", line 247, in check_website_status
+    db.session.commit()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\scoping.py", line 597, in commit
+    return self._proxied.commit()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1972, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1257, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1232, in _prepare_impl
+    self.session.flush()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4296, in flush
+    self._flush(objects)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4431, in _flush
+    with util.safe_reraise():
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4392, in _flush
+    flush_context.execute()
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 85, in save_obj
+    _emit_update_statements(
+  File "D:\mca\final sem project\upmonitor\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 948, in _emit_update_statements
+    raise orm_exc.StaleDataError(
+sqlalchemy.orm.exc.StaleDataError: UPDATE statement on table 'website' expected to update 1 row(s); 0 were matched.
+2024-03-13 19:03:25,240 - INFO - Added job "check_website_status" to job store "default"
+2024-03-13 19:03:25,241 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:25] "[32mPOST /website/add HTTP/1.1[0m" 302 -
+2024-03-13 19:03:25,283 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:25] "GET / HTTP/1.1" 200 -
+2024-03-13 19:03:26,724 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:26] "GET /website/add HTTP/1.1" 200 -
+2024-03-13 19:03:34,118 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" (scheduled at 2024-03-13 19:03:34.111263+05:30)
+2024-03-13 19:03:34,118 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" (scheduled at 2024-03-13 19:03:34.111263+05:30)
+2024-03-13 19:03:34,121 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" executed successfully
+2024-03-13 19:03:34,121 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" executed successfully
+2024-03-13 19:03:34,970 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" (scheduled at 2024-03-13 19:03:34.964064+05:30)
+2024-03-13 19:03:34,972 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" (scheduled at 2024-03-13 19:03:34.964064+05:30)
+2024-03-13 19:03:34,974 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" executed successfully
+2024-03-13 19:03:34,974 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" executed successfully
+2024-03-13 19:03:36,552 - INFO - Added job "check_website_status" to job store "default"
+2024-03-13 19:03:36,552 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:36] "[32mPOST /website/add HTTP/1.1[0m" 302 -
+2024-03-13 19:03:36,561 - INFO - 127.0.0.1 - - [13/Mar/2024 19:03:36] "GET / HTTP/1.1" 200 -
+2024-03-13 19:03:55,249 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:25 IST)" (scheduled at 2024-03-13 19:03:55.240275+05:30)
+2024-03-13 19:04:02,240 - INFO - Email sent successfully to aloyziuz1234@gmail.com.
+2024-03-13 19:04:04,117 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:34 IST)" (scheduled at 2024-03-13 19:04:04.111263+05:30)
+2024-03-13 19:04:04,118 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:34 IST)" (scheduled at 2024-03-13 19:04:04.111263+05:30)
+2024-03-13 19:04:04,120 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:34 IST)" executed successfully
+2024-03-13 19:04:04,120 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:34 IST)" executed successfully
+2024-03-13 19:04:04,977 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:34 IST)" (scheduled at 2024-03-13 19:04:04.964064+05:30)
+2024-03-13 19:04:04,978 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:04 IST)" (scheduled at 2024-03-13 19:04:04.964064+05:30)
+2024-03-13 19:04:04,979 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:34 IST)" executed successfully
+2024-03-13 19:04:04,980 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:34 IST)" executed successfully
+2024-03-13 19:04:06,567 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:36 IST)" (scheduled at 2024-03-13 19:04:06.552322+05:30)
+2024-03-13 19:04:13,046 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:25 IST)" executed successfully
+2024-03-13 19:04:18,523 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:36 IST)" executed successfully
+2024-03-13 19:04:25,254 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:55 IST)" (scheduled at 2024-03-13 19:04:25.240275+05:30)
+2024-03-13 19:04:34,122 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:04 IST)" (scheduled at 2024-03-13 19:04:34.111263+05:30)
+2024-03-13 19:04:34,124 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:04 IST)" (scheduled at 2024-03-13 19:04:34.111263+05:30)
+2024-03-13 19:04:34,127 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:04 IST)" executed successfully
+2024-03-13 19:04:34,128 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:04 IST)" executed successfully
+2024-03-13 19:04:34,972 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:04 IST)" (scheduled at 2024-03-13 19:04:34.964064+05:30)
+2024-03-13 19:04:34,974 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:04 IST)" (scheduled at 2024-03-13 19:04:34.964064+05:30)
+2024-03-13 19:04:34,977 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:04 IST)" executed successfully
+2024-03-13 19:04:34,978 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:04 IST)" executed successfully
+2024-03-13 19:04:36,561 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:06 IST)" (scheduled at 2024-03-13 19:04:36.552322+05:30)
+2024-03-13 19:04:37,643 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:04:55 IST)" executed successfully
+2024-03-13 19:04:45,198 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:06 IST)" executed successfully
+2024-03-13 19:04:55,243 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:25 IST)" (scheduled at 2024-03-13 19:04:55.240275+05:30)
+2024-03-13 19:05:04,129 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:34 IST)" (scheduled at 2024-03-13 19:05:04.111263+05:30)
+2024-03-13 19:05:04,129 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:34 IST)" (scheduled at 2024-03-13 19:05:04.111263+05:30)
+2024-03-13 19:05:04,131 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:34 IST)" executed successfully
+2024-03-13 19:05:04,131 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:34 IST)" executed successfully
+2024-03-13 19:05:04,972 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:34 IST)" (scheduled at 2024-03-13 19:05:04.964064+05:30)
+2024-03-13 19:05:04,972 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:34 IST)" (scheduled at 2024-03-13 19:05:04.964064+05:30)
+2024-03-13 19:05:04,974 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:34 IST)" executed successfully
+2024-03-13 19:05:04,974 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:34 IST)" executed successfully
+2024-03-13 19:05:06,557 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:36 IST)" (scheduled at 2024-03-13 19:05:06.552322+05:30)
+2024-03-13 19:05:07,111 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:25 IST)" executed successfully
+2024-03-13 19:05:18,840 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:36 IST)" executed successfully
+2024-03-13 19:05:25,252 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:55 IST)" (scheduled at 2024-03-13 19:05:25.240275+05:30)
+2024-03-13 19:05:34,126 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:04 IST)" (scheduled at 2024-03-13 19:05:34.111263+05:30)
+2024-03-13 19:05:34,127 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:04 IST)" (scheduled at 2024-03-13 19:05:34.111263+05:30)
+2024-03-13 19:05:34,128 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:04 IST)" executed successfully
+2024-03-13 19:05:34,128 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:04 IST)" executed successfully
+2024-03-13 19:05:34,978 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:04 IST)" (scheduled at 2024-03-13 19:05:34.964064+05:30)
+2024-03-13 19:05:34,978 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:04 IST)" (scheduled at 2024-03-13 19:05:34.964064+05:30)
+2024-03-13 19:05:34,980 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:04 IST)" executed successfully
+2024-03-13 19:05:34,981 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:04 IST)" executed successfully
+2024-03-13 19:05:36,562 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:06 IST)" (scheduled at 2024-03-13 19:05:36.552322+05:30)
+2024-03-13 19:05:37,469 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:05:55 IST)" executed successfully
+2024-03-13 19:05:41,029 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:06 IST)" executed successfully
+2024-03-13 19:05:55,247 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:25 IST)" (scheduled at 2024-03-13 19:05:55.240275+05:30)
+2024-03-13 19:06:04,121 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:34 IST)" (scheduled at 2024-03-13 19:06:04.111263+05:30)
+2024-03-13 19:06:04,122 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:34 IST)" (scheduled at 2024-03-13 19:06:04.111263+05:30)
+2024-03-13 19:06:04,123 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:34 IST)" executed successfully
+2024-03-13 19:06:04,124 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:34 IST)" executed successfully
+2024-03-13 19:06:04,969 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:34 IST)" (scheduled at 2024-03-13 19:06:04.964064+05:30)
+2024-03-13 19:06:04,970 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:34 IST)" (scheduled at 2024-03-13 19:06:04.964064+05:30)
+2024-03-13 19:06:04,971 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:34 IST)" executed successfully
+2024-03-13 19:06:04,971 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:34 IST)" executed successfully
+2024-03-13 19:06:06,555 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:36 IST)" (scheduled at 2024-03-13 19:06:06.552322+05:30)
+2024-03-13 19:06:07,235 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:25 IST)" executed successfully
+2024-03-13 19:06:18,603 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:36 IST)" executed successfully
+2024-03-13 19:06:25,244 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:55 IST)" (scheduled at 2024-03-13 19:06:25.240275+05:30)
+2024-03-13 19:06:34,117 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:04 IST)" (scheduled at 2024-03-13 19:06:34.111263+05:30)
+2024-03-13 19:06:34,117 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:04 IST)" (scheduled at 2024-03-13 19:06:34.111263+05:30)
+2024-03-13 19:06:34,119 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:04 IST)" executed successfully
+2024-03-13 19:06:34,119 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:04 IST)" executed successfully
+2024-03-13 19:06:34,975 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:04 IST)" (scheduled at 2024-03-13 19:06:34.964064+05:30)
+2024-03-13 19:06:34,976 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:04 IST)" (scheduled at 2024-03-13 19:06:34.964064+05:30)
+2024-03-13 19:06:34,977 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:04 IST)" executed successfully
+2024-03-13 19:06:34,977 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:04 IST)" executed successfully
+2024-03-13 19:06:36,553 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:06 IST)" (scheduled at 2024-03-13 19:06:36.552322+05:30)
+2024-03-13 19:06:36,908 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:06:55 IST)" executed successfully
+2024-03-13 19:06:39,758 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:06 IST)" executed successfully
+2024-03-13 19:06:55,248 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:25 IST)" (scheduled at 2024-03-13 19:06:55.240275+05:30)
+2024-03-13 19:07:04,117 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:34 IST)" (scheduled at 2024-03-13 19:07:04.111263+05:30)
+2024-03-13 19:07:04,117 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:34 IST)" (scheduled at 2024-03-13 19:07:04.111263+05:30)
+2024-03-13 19:07:04,122 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:34 IST)" executed successfully
+2024-03-13 19:07:04,123 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:34 IST)" executed successfully
+2024-03-13 19:07:04,964 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:34 IST)" (scheduled at 2024-03-13 19:07:04.964064+05:30)
+2024-03-13 19:07:04,965 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:34 IST)" (scheduled at 2024-03-13 19:07:04.964064+05:30)
+2024-03-13 19:07:04,966 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:34 IST)" executed successfully
+2024-03-13 19:07:04,967 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:34 IST)" executed successfully
+2024-03-13 19:07:06,565 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:36 IST)" (scheduled at 2024-03-13 19:07:06.552322+05:30)
+2024-03-13 19:07:07,592 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:25 IST)" executed successfully
+2024-03-13 19:07:18,930 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:36 IST)" executed successfully
+2024-03-13 19:07:25,256 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:55 IST)" (scheduled at 2024-03-13 19:07:25.240275+05:30)
+2024-03-13 19:07:34,126 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:04 IST)" (scheduled at 2024-03-13 19:07:34.111263+05:30)
+2024-03-13 19:07:34,126 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:04 IST)" (scheduled at 2024-03-13 19:07:34.111263+05:30)
+2024-03-13 19:07:34,133 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:04 IST)" executed successfully
+2024-03-13 19:07:34,134 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:04 IST)" executed successfully
+2024-03-13 19:07:34,973 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:04 IST)" (scheduled at 2024-03-13 19:07:34.964064+05:30)
+2024-03-13 19:07:34,974 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:04 IST)" (scheduled at 2024-03-13 19:07:34.964064+05:30)
+2024-03-13 19:07:34,975 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:04 IST)" executed successfully
+2024-03-13 19:07:34,975 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:04 IST)" executed successfully
+2024-03-13 19:07:36,564 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:06 IST)" (scheduled at 2024-03-13 19:07:36.552322+05:30)
+2024-03-13 19:07:38,399 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:07:55 IST)" executed successfully
+2024-03-13 19:07:40,952 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:06 IST)" executed successfully
+2024-03-13 19:07:55,247 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:25 IST)" (scheduled at 2024-03-13 19:07:55.240275+05:30)
+2024-03-13 19:08:04,119 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:34 IST)" (scheduled at 2024-03-13 19:08:04.111263+05:30)
+2024-03-13 19:08:04,119 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:34 IST)" (scheduled at 2024-03-13 19:08:04.111263+05:30)
+2024-03-13 19:08:04,120 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:34 IST)" executed successfully
+2024-03-13 19:08:04,121 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:34 IST)" executed successfully
+2024-03-13 19:08:04,964 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:34 IST)" (scheduled at 2024-03-13 19:08:04.964064+05:30)
+2024-03-13 19:08:04,965 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:34 IST)" (scheduled at 2024-03-13 19:08:04.964064+05:30)
+2024-03-13 19:08:04,967 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:34 IST)" executed successfully
+2024-03-13 19:08:04,968 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:34 IST)" executed successfully
+2024-03-13 19:08:06,562 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:36 IST)" (scheduled at 2024-03-13 19:08:06.552322+05:30)
+2024-03-13 19:08:08,413 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:25 IST)" executed successfully
+2024-03-13 19:08:19,346 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:36 IST)" executed successfully
+2024-03-13 19:08:25,243 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:55 IST)" (scheduled at 2024-03-13 19:08:25.240275+05:30)
+2024-03-13 19:08:34,118 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:04 IST)" (scheduled at 2024-03-13 19:08:34.111263+05:30)
+2024-03-13 19:08:34,118 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:04 IST)" (scheduled at 2024-03-13 19:08:34.111263+05:30)
+2024-03-13 19:08:34,120 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:04 IST)" executed successfully
+2024-03-13 19:08:34,120 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:04 IST)" executed successfully
+2024-03-13 19:08:34,970 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:04 IST)" (scheduled at 2024-03-13 19:08:34.964064+05:30)
+2024-03-13 19:08:34,971 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:04 IST)" (scheduled at 2024-03-13 19:08:34.964064+05:30)
+2024-03-13 19:08:34,972 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:04 IST)" executed successfully
+2024-03-13 19:08:34,972 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:04 IST)" executed successfully
+2024-03-13 19:08:36,557 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:06 IST)" (scheduled at 2024-03-13 19:08:36.552322+05:30)
+2024-03-13 19:08:36,973 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:08:55 IST)" executed successfully
+2024-03-13 19:08:39,326 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:06 IST)" executed successfully
+2024-03-13 19:08:40,236 - INFO -  * Detected change in 'D:\\mca\\final sem project\\upmonitor\\app.py', reloading
+2024-03-13 19:08:40,334 - INFO -  * Restarting with stat
+2024-03-13 19:08:41,191 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-13 19:08:41,191 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-13 19:08:41,193 - INFO - Added job "check_website_status" to job store "default"
+2024-03-13 19:08:41,194 - INFO - Added job "check_website_status" to job store "default"
+2024-03-13 19:08:41,194 - INFO - Scheduler started
+2024-03-13 19:08:41,202 - WARNING -  * Debugger is active!
+2024-03-13 19:08:41,204 - INFO -  * Debugger PIN: 256-747-690
+2024-03-13 19:09:04,120 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:34 IST)" (scheduled at 2024-03-13 19:09:04.111263+05:30)
+2024-03-13 19:09:04,120 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:34 IST)" (scheduled at 2024-03-13 19:09:04.111263+05:30)
+2024-03-13 19:09:04,122 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:34 IST)" executed successfully
+2024-03-13 19:09:04,122 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:34 IST)" executed successfully
+2024-03-13 19:09:11,204 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:11 IST)" (scheduled at 2024-03-13 19:09:11.191574+05:30)
+2024-03-13 19:09:11,206 - INFO - Running job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:11 IST)" (scheduled at 2024-03-13 19:09:11.191574+05:30)
+2024-03-13 19:09:18,057 - INFO - Email sent successfully to aloyziuz1234@gmail.com.
+2024-03-13 19:09:23,455 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:41 IST)" executed successfully
+2024-03-13 19:09:28,650 - INFO - Job "check_website_status (trigger: interval[0:00:30], next run at: 2024-03-13 19:09:41 IST)" executed successfully

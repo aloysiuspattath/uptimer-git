@@ -1,0 +1,162 @@
+/* styles.css */
+
+/* Reset default browser styles */
+body, h1, h2, p, input, button {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Heading styles */
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Form styles */
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Link styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Website styles */
+.website {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.website h2 {
+    margin-bottom: 10px;
+}
+
+.website p {
+    margin-bottom: 10px;
+}
+
+/* Delete button styles */
+.delete-btn {
+    background-color: #dc3545;
+}
+
+.delete-btn:hover {
+    background-color: #c82333;
+}
+
+/* Success message styles */
+.success-msg {
+    color: #28a745;
+    margin-bottom: 20px;
+}
+
+/* Your CSS styles here */
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Website item styles */
+.website-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Website name styles */
+.website-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Website URL styles */
+.website-url {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Status history styles */
+.status-history {
+    margin-bottom: 10px;
+}
+
+/* Status history item styles */
+.status-history-item {
+    margin-bottom: 5px;
+}
+
+/* Timestamp styles */
+.timestamp {
+    font-size: 14px;
+    color: #777;
+}
+
+/* Status code styles */
+.status-code {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* OK status code styles */
+.status-code-ok {
+    color: green;
+}
+
+/* Unknown status code styles */
+.status-code-unknown {
+    color: orange;
+}
