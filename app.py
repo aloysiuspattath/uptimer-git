@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://webmonitor:webmonitor@localhost/website_monitoring'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://webmonitor:webmonitor@144.24.8.190/websitemonitoring'
 db = SQLAlchemy(app)
 engine = db.create_engine(app.config['SQLALCHEMY_DATABASE_URI'])
 Session = sessionmaker(bind=engine)
